@@ -1,0 +1,13 @@
+C:\Users\oavil\source\repos\Ex_NomsCiutats\bin\Debug\netcoreapp3.1\Ex_NomsCiutats.exe
+C:\Users\oavil\source\repos\Ex_NomsCiutats\bin\Debug\netcoreapp3.1\Ex_NomsCiutats.deps.json
+C:\Users\oavil\source\repos\Ex_NomsCiutats\bin\Debug\netcoreapp3.1\Ex_NomsCiutats.runtimeconfig.json
+C:\Users\oavil\source\repos\Ex_NomsCiutats\bin\Debug\netcoreapp3.1\Ex_NomsCiutats.runtimeconfig.dev.json
+C:\Users\oavil\source\repos\Ex_NomsCiutats\bin\Debug\netcoreapp3.1\Ex_NomsCiutats.dll
+C:\Users\oavil\source\repos\Ex_NomsCiutats\bin\Debug\netcoreapp3.1\Ex_NomsCiutats.pdb
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.csprojAssemblyReference.cache
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.AssemblyInfoInputs.cache
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.AssemblyInfo.cs
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.csproj.CoreCompileInputs.cache
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.dll
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.pdb
+C:\Users\oavil\source\repos\Ex_NomsCiutats\obj\Debug\netcoreapp3.1\Ex_NomsCiutats.genruntimeconfig.cache
